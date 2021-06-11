@@ -1,0 +1,13 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\obj\Debug\netcoreapp3.1\CS014SoucetPrvocisel.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\obj\Debug\netcoreapp3.1\CS014SoucetPrvocisel.AssemblyInfoInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\obj\Debug\netcoreapp3.1\CS014SoucetPrvocisel.AssemblyInfo.cs
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\obj\Debug\netcoreapp3.1\CS014SoucetPrvocisel.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\bin\Debug\netcoreapp3.1\CS014SoucetPrvocisel.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\bin\Debug\netcoreapp3.1\CS014SoucetPrvocisel.deps.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\bin\Debug\netcoreapp3.1\CS014SoucetPrvocisel.runtimeconfig.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\bin\Debug\netcoreapp3.1\CS014SoucetPrvocisel.runtimeconfig.dev.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\bin\Debug\netcoreapp3.1\CS014SoucetPrvocisel.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\bin\Debug\netcoreapp3.1\CS014SoucetPrvocisel.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\obj\Debug\netcoreapp3.1\CS014SoucetPrvocisel.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\obj\Debug\netcoreapp3.1\CS014SoucetPrvocisel.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS014SoucetPrvocisel\CS014SoucetPrvocisel\obj\Debug\netcoreapp3.1\CS014SoucetPrvocisel.genruntimeconfig.cache
